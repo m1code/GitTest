@@ -6,4 +6,8 @@ AA5
 Aoldpc
 A old pc again
 huhu new pc
+<<<<<<< HEAD
 neuerpc1
+=======
+huhu new pc2
+>>>>>>> neuerpc2
