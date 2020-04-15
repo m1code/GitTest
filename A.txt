@@ -1,2 +1,6 @@
 alice1
+<<<<<<< HEAD
 bob1
+=======
+alice2
+>>>>>>> alice2
